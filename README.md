@@ -4,7 +4,7 @@ a framework which helps to write word documents in html
 
 ### How does it work?
 
-this works by a css file link it and use some classes to create it 
+this works by a css file link it in the html file and use some classes to create it 
 
 ### Is it large?
 
