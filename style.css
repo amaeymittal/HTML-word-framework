@@ -48,6 +48,20 @@ hr{
     border-radius:5px;
     border:0px;
 }
+
+div{
+    padding-top:4px;
+    padding-bottom:4px;
+    padding-right:8px;
+    padding-left:8px;
+    height:700px;
+    margin-bottom:15px;
+    border-radius:4px;
+}
+
+.dis-line{
+    display:inline;
+}
 /* hr colors */
 .bg-hr-red{
     background-color: #d64747;
@@ -124,18 +138,4 @@ hr{
 
 .b-white{
     border-color: #faf9f9;
-}
-
-div{
-    padding-top:4px;
-    padding-bottom:4px;
-    padding-right:8px;
-    padding-left:8px;
-    height:700px;
-    margin-bottom:15px;
-    border-radius:4px;
-}
-
-.dis-line{
-    display:inline;
 }
